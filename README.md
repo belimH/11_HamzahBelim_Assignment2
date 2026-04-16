@@ -1,4 +1,4 @@
-#  Assignment Title
+#  Sentiment analysis on Artemis 
 
 ## (1) Problem Statement
 Social media platforms generate large volumes of user-generated comments daily. Manually analyzing the sentiment of these comments is inefficient.
